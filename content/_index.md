@@ -50,8 +50,8 @@ sections:
           description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Algebra
+          description: 1.00000001%
           icon: chart-line
           icon_pack: fas
         - name: Photography
@@ -108,7 +108,7 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-01-25'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
@@ -116,14 +116,14 @@ sections:
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2023-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
           organization: edX
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
+          date_end: '2023-12-21'
           date_start: '2020-07-01'
           description: ''
           organization: DataCamp
